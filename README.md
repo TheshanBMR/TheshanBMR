@@ -21,7 +21,8 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in crea
 ## 📫 How to reach me
 
 <!-- - Email: randulatheshan5@gmail.com -->
-- Telegram: https://t.me/TheshanBMR
+- [Telegram](https://t.me/TheshanBMR)
+- [Discord](https://discord.com/users/1196013048801013770)
 
 ## 📈 GitHub Stats
 
