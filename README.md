@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in crea
 - **Frameworks**: Wordpress, Tailwind CSS, Bootstrap
 - **Databases**: MySQL
 - **Tools**: Git, GitHub, VSCode, ChatGPT
-
+ 
 <!--## 🚀 Current Projects
 
 - **[Project Name]**: [Brief description of what this project does.]
