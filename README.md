@@ -23,12 +23,13 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in crea
 <!-- - Email: randulatheshan5@gmail.com -->
 - [Telegram](https://t.me/TheshanBMR)
 - [Discord](https://discord.com/users/1196013048801013770)
+- [My Portfolio](https://theshanbmr.github.io/portfolio)
 
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TheshanBMR&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
-<!-- For advanced stats -->
-<!-- ![Your GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]) -->
+## 📊 For Advanced Stats
+![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheshanBMR)
 
 <!-- Feel free to add more badges or stats to highlight your achievements -->
