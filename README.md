@@ -17,6 +17,7 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in crea
 ## 🌱 I'm currently learning
 
 - Web Development
+- Web Design
 
 ## 📫 How to reach me
 
