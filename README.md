@@ -27,7 +27,6 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in crea
 - [My Portfolio](https://theshanbmr.github.io/portfolio)
 
 ## 📈 GitHub Stats
-
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TheshanBMR&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ## 📊 For Advanced Stats
