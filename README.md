@@ -30,6 +30,6 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in crea
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TheshanBMR&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ## 📊 For Advanced Stats
-![My GitHub Streak]()
+![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheshanBMR)
 
 <!-- Feel free to add more badges or stats to highlight your achievements -->
