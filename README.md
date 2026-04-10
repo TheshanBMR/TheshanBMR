@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in crea
 - **Languages**: HTML, CSS, JavaScript, PHP, MySQL
 - **Frameworks**: Wordpress, Tailwind CSS, Bootstrap
 - **Databases**: MySQL
-- **Tools**: Git, GitHub, VSCode, ChatGPT, DeepSeek AI
+- **Tools**: Git, GitHub, VSCode, ChatGPT, DeepSeek AI, Claude AI
  
 <!--## 🚀 Current Projects
 
